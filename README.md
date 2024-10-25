@@ -6,13 +6,13 @@ To run this code, you need Python 3 installed on your machine.
 
 1. Visit the [official Python website](https://www.python.org/downloads/) and install a stable version of Python 3.
 2. After installation, confirm the version using:
-   ```bash
-   python3 --version
-   ```
+```bash
+python3 --version
+```
 3. Clone this repository:
-  ```bash
-  git clone https://github.com/Erudite-tanisha/Password-Validator.git
-  ```
+```bash
+git clone https://github.com/Erudite-tanisha/Password-Validator.git
+```
 4. Change to the Password Validator directory:
 ```bash
 python3 main.py
